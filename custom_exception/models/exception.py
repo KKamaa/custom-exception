@@ -5,11 +5,3 @@
 
 class UserError(Exception):
     """ custom odoo Error exception """
-
-
-class UserInfo(Exception):
-    """custom odoo User info message after action """
-
-
-class UserSuccess(Exception):
-    """ custom odoo successfull exection """

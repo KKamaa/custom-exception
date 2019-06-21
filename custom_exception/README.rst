@@ -36,17 +36,20 @@ All arguments
 <<<<<<<<<<<<<
 .. image:: /custom_exception/static/images/code.png
     :width: 400px
+    :alt: code
 
 Main argument
 <<<<<<<<<<<<<
 .. figure:: /custom_exception/static/images/code_2.png
     :width: 400px
+    :alt: code
 
 
 Example
 -------
 .. image:: /custom_exception/static/images/test.gif
     :width: 800px
+    :alt: demo
 
 
 Overwrite Existing UserError
@@ -58,9 +61,11 @@ Code
 <<<<<
 .. image:: /custom_exception/static/images/code_3.png
     :width: 400px
+    :alt: code
 
 Example
 <<<<<<<
 
 .. image:: /custom_exception/static/images/test_2.gif
     :width: 800px
+    :alt: demo
