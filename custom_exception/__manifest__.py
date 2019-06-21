@@ -13,5 +13,6 @@
     'data': [
         'template/assets.xml',
     ],
+    'images': ['images/main_screenshot.png'],
     'installable': True,
 }
