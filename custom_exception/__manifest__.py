@@ -3,7 +3,7 @@
 
 {
     'name': 'Custom Exception',
-    'version': '11.0.1.0.0',
+    'version': '12.0.1.0.0',
     'author': 'Kevin Kamau',
     'license': 'LGPL-3',
     'category': 'Extra',
