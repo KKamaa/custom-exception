@@ -66,6 +66,6 @@ Code
 Example
 <<<<<<<
 
-.. image:: /custom_exception/static/images/test_2.gif
+.. image:: /custom_exception/static/images/test.gif
     :width: 800px
     :alt: demo
